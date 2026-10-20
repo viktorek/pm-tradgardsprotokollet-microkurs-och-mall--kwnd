@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /d/
+Sitemap: https://viktorek.github.io/pm-tradgardsprotokollet-microkurs-och-mall--kwnd/sitemap.xml
